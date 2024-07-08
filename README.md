@@ -28,7 +28,7 @@
 
 * 第一阶段: ArceOS组件化设计与实现https://docs.qq.com/pdf/DVXdqVmdDSWZEbU1R?
 * 第二阶段: 项目一 ArceOS SysCall 系统调用与实现https://cicvedu.com/course/115
-           项目二 ArceOS驱动开发https://cicvedu.com/course/116
+  项目二 ArceOS驱动开发https://cicvedu.com/course/116
            
 ![image](https://github.com/cicvedu/.github/assets/145750572/7bbb50b8-037a-4911-8c69-556d08089bec)
 
