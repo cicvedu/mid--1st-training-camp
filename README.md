@@ -30,8 +30,7 @@
 * 第二阶段: 项目一 ArceOS SysCall 系统调用与实现https://cicvedu.com/course/115
   项目二 ArceOS驱动开发https://cicvedu.com/course/116
 
-             
-![image](https://github.com/cicvedu/.github/assets/145750572/7bbb50b8-037a-4911-8c69-556d08089bec)
+ ![image](https://github.com/cicvedu/.github/assets/145750572/7bbb50b8-037a-4911-8c69-556d08089bec)
 
 上课时间：2024.2.26-4.21 ，每周一、三、五晚8-9点线上授课，4周线上学习+4周线下项目实战，共计8周，具体见课表
 
